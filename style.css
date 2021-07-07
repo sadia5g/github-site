@@ -1,0 +1,14 @@
+.spot h1 {
+  color: black;
+  background-color: olivedrab;
+  height: 70px;
+  margin: 0;
+}
+.home p {
+  text-align: right;
+  margin: 0;
+}
+.hr hr {
+  margin: 0;
+  border-top: 10px solid rgb(116, 226, 116);
+}
